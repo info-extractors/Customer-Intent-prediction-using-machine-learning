@@ -16,7 +16,7 @@ The goal is to build a **machine learning model** that accurately predicts **Pur
 | **CustomerGender** | Gender of the customer (Male, Female, Other) |
 | **PurchaseFrequency** | How often the customer makes purchases (e.g., Weekly, Monthly, Occasionally) |
 | **CustomerSatisfaction** | Rating of past purchase experiences (e.g., Scale of 1-5) |
-| **Target: PurchaseIntent** | Binary label indicating whether the customer intends to buy the product (1: Yes, 0: No) |
+| **Target: PurchaseIntent** | Binary label indicating whether the customer intends to buy the product (1: Yes, 0: No)
 
 ## 🔍 Data Collection & Preprocessing
 - **Data Sources**: The dataset can be obtained from customer purchase logs, surveys, and e-commerce platforms.
